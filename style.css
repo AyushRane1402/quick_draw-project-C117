@@ -1,0 +1,48 @@
+body
+{
+    background-color: darkmagenta;
+}
+
+#your_sketch
+{
+    font-size: 20px;
+    color: yellow;
+}
+
+#confidence
+{
+    font-size: 20px;
+    color: yellow;
+}
+
+#score
+{
+    font-size: 25px;
+    float: left;
+    margin-left: 70px;
+    color: yellow;
+}
+
+#timer
+{
+    font-size: 25px;
+    float: right;
+    margin-right: 70px;
+    color: yellow;
+}
+
+#sketch_to_be_drawn
+{
+    font-size: 20px;
+    color: yellow;  
+}
+
+h1
+{
+    background-color: cornsilk;
+}
+
+#show_sketch
+{
+    float: right;
+}
